@@ -510,7 +510,7 @@
         <Image condition="end with">C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_licutil.exe</Image>
         <ParentImage condition="end with">C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_licutil.exe</ParentImage>
         <Image condition="end with">C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updaterstartuputility.exe</Image>
-        <ParentImage condition="is">C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updaterstartuputility.exe</ParentImage
+        <ParentImage condition="is">C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updaterstartuputility.exe</ParentImage>
 		<ParentImage condition="is">C:\Program Files\McAfee\WPS\1.13.209.1\pcoscanner\mc-pco-scanner.exe</ParentImage>
 		<ParentImage condition="is">C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.110.3218.0_x64__kzf8qxf38zg5c\Skype\Skype.exe</ParentImage>
         <ParentCommandLine condition="is">"C:\Program Files\Microsoft Monitoring Agent\Agent\MonitoringHost.exe" -Embedding</ParentCommandLine>
